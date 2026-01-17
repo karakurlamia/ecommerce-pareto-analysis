@@ -1,0 +1,34 @@
+1. Operasyonel Yük (Sipariş Hacmi) – Pareto Sonuçları
+Sipariş hacmine dayalı Pareto analizi, operasyonel iş yükünün (toplama, paketleme, sevkiyat) büyük çoğunluğunu oluşturan ürünleri belirler.
+
+Temel Bulgular:
+Siparişlerin %50’si, birim gelir katkısı düşük ancak sipariş sıklığı yüksek ürünlerden oluşmakta olup, bu durum operasyonel maliyetleri artırmaktadır.
+18, 1, 28, 5, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler, operasyonel yükün en büyük payını oluşturmaktadır.
+Bunlar arasında, 18 numaralı ürün kimliği, operasyonel iş yüküne en büyük katkıyı sağlayan üründür.
+
+Önemli Nokta: Yüksek operasyonel yük, yüksek gelir katkısı anlamına gelmez. Bu ürünler süreç maliyetlerini artırır ve verimlilik iyileştirmeleri için değerlendirilmelidir.
+
+---
+2. Gelir Katkısı – Pareto Sonuçları
+Gelire (ciro) dayalı Pareto analizi, toplam gelirin büyük çoğunluğunu oluşturan ürünleri vurgular.
+
+ Temel Bulgular:
+20, 5, 1, 17, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler birlikte toplam gelirin %50'sini oluşturmaktadır.
+Sipariş hacmi sınırlı olmasına rağmen, 20 numaralı ürün toplam cironun en büyük payını oluşturmakta ve gelir odaklı büyüme için kritik kaldıraç görevi görmektedir.
+
+Önemli Nokta: Gelir getiren ürünler genellikle daha yüksek fiyatlı veya daha yüksek kar marjlı ürünlerdir ve yüksek hacimli ürünlere kıyasla 
+farklı önceliklendirme stratejileri gerektirir.
+---
+3. Örtüşme ve Stratejik Yorumlama
+Örtüşen Ürünler (Yüksek Sipariş Hacmi ve Yüksek Gelir):
+1, 5, 22, 4 ve 12 numaralı ürün kimlikleri her iki analizde de yer almaktadır.
+Bu ürünler, aynı anda hem operasyonel maliyet hem de gelir etkisi yarattığından, yanlış fiyatlama veya stok kararları kârlılığı doğrudan riske atmaktadır.
+Örtüşmeyen Ürünler:
+18 numaralı ürün kimliği: Yüksek operasyonel yük, nispeten düşük gelir katkısı.
+20 numaralı ürün kimliği: Daha düşük operasyonel yük ile yüksek gelir katkısı.
+
+ ---
+4. İşletme Etkisi
+Operasyonel yük ile gelir katkısı arasında ayrım yapılmadığında:
+Bu nedenle ürün portföyü, operasyonel yük ve gelir katkısı birlikte değerlendirilerek; düşük gelirli yüksek hacimli ürünlerde maliyet azaltıcı önlemler, 
+yüksek gelirli ürünlerde ise büyüme odaklı stratejiler uygulanmalıdır.
