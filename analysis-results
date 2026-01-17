@@ -1,6 +1,5 @@
 1. Operasyonel Yük (Sipariş Hacmi) – Pareto Sonuçları
-Sipariş hacmine dayalı Pareto analizi, operasyonel iş yükünün (toplama, paketleme, sevkiyat) büyük çoğunluğunu oluşturan ürünleri belirler.
-
+Siparişlerin %50’si, birim gelir katkısı düşük ancak sipariş sıklığı yüksek ürünlerden oluşmakta olup, bu durum operasyonel maliyetleri artırmaktadır.
 Temel Bulgular:
 Siparişlerin %50’si, birim gelir katkısı düşük ancak sipariş sıklığı yüksek ürünlerden oluşmakta olup, bu durum operasyonel maliyetleri artırmaktadır.
 18, 1, 28, 5, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler, operasyonel yükün en büyük payını oluşturmaktadır.
@@ -14,8 +13,8 @@ Gelire (ciro) dayalı Pareto analizi, toplam gelirin büyük çoğunluğunu olu�
 
  Temel Bulgular:
 20, 5, 1, 17, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler birlikte toplam gelirin %50'sini oluşturmaktadır.
-Sipariş hacmi sınırlı olmasına rağmen, 20 numaralı ürün toplam cironun en büyük payını oluşturmakta ve gelir odaklı büyüme için kritik kaldıraç görevi görmektedir.
-
+Sipariş hacmi sınırlı olmasına rağmen, 20 numaralı ürün toplam cironun en büyük payını oluşturmakta ve gelir odaklı büyüme için 
+kritik kaldıraç görevi görmekte ve gelir odaklı büyüme stratejilerinde önceliklendirilmelidir.
 Önemli Nokta: Gelir getiren ürünler genellikle daha yüksek fiyatlı veya daha yüksek kar marjlı ürünlerdir ve yüksek hacimli ürünlere kıyasla 
 farklı önceliklendirme stratejileri gerektirir.
 ---
@@ -32,3 +31,4 @@ Bu ürünler, aynı anda hem operasyonel maliyet hem de gelir etkisi yarattığ�
 Operasyonel yük ile gelir katkısı arasında ayrım yapılmadığında:
 Bu nedenle ürün portföyü, operasyonel yük ve gelir katkısı birlikte değerlendirilerek; düşük gelirli yüksek hacimli ürünlerde maliyet azaltıcı önlemler, 
 yüksek gelirli ürünlerde ise büyüme odaklı stratejiler uygulanmalıdır.
+Bu bulgular, ürün portföyünün yalnızca satış hacmine göre değil, operasyonel yük ve gelir katkısı birlikte değerlendirilerek yeniden önceliklendirilmesi gerektiğini göstermektedir.
