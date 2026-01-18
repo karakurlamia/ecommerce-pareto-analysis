@@ -1,7 +1,7 @@
 1. Operasyonel Yük (Sipariş Hacmi) – Pareto Sonuçları
 Siparişlerin %50’si, birim gelir katkısı düşük ancak sipariş sıklığı yüksek ürünlerden oluşmakta olup, bu durum operasyonel maliyetleri artırmaktadır.
 Temel Bulgular:
-18, 1, 28, 5, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler, operasyonel yükün en büyük payını oluşturmaktadır.
+18, 4, 12, 17, 5 ve 1 numaralı ürün kimliklerine sahip ürünler, operasyonel yükün en büyük payını oluşturmaktadır.
 Bunlar arasında, 18 numaralı ürün kimliği, operasyonel iş yüküne en büyük katkıyı sağlayan üründür.
 
 Önemli Nokta: Yüksek operasyonel yük, yüksek gelir katkısı anlamına gelmez. Bu ürünler süreç maliyetlerini artırır ve verimlilik iyileştirmeleri için değerlendirilmelidir.
@@ -11,15 +11,14 @@ Bunlar arasında, 18 numaralı ürün kimliği, operasyonel iş yüküne en büy
 Gelire (ciro) dayalı Pareto analizi, toplam gelirin büyük çoğunluğunu oluşturan ürünleri vurgular.
 
  Temel Bulgular:
-20, 5, 1, 17, 22, 4 ve 12 numaralı ürün kimliklerine sahip ürünler birlikte toplam gelirin %50'sini oluşturmaktadır.
-Sipariş hacmi sınırlı olmasına rağmen, 20 numaralı ürün toplam cironun en büyük payını oluşturmakta ve gelir odaklı büyüme için 
-kritik kaldıraç görevi görmekte olup , gelir odaklı büyüme stratejilerinde önceliklendirilmelidir.
+5, 17, 20, 1, 4 ve 22 numaralı ürün kimliklerine sahip ürünler birlikte toplam gelirin %50'sini oluşturmaktadır.
+Sipariş hacmi yüksek  olan   5 numaralı ürün toplam cironun en büyük payını oluşturmaktadır. gelir odaklı büyüme stratejilerinde önceliklendirilmelidir.
 Önemli Nokta: Gelir getiren ürünler genellikle daha yüksek fiyatlı veya daha yüksek kar marjlı ürünlerdir ve yüksek hacimli ürünlere kıyasla 
 farklı önceliklendirme stratejileri gerektirir.
 ---
 3. Örtüşme ve Stratejik Yorumlama
 Örtüşen Ürünler (Yüksek Sipariş Hacmi ve Yüksek Gelir):
-1, 5, 22, 4 ve 12 numaralı ürün kimlikleri her iki analizde de yer almaktadır.
+1, 5, 4 ve 17 numaralı ürün kimlikleri her iki analizde de yer almaktadır.
 Bu ürünler, aynı anda hem operasyonel maliyet hem de gelir etkisi yarattığından, yanlış fiyatlama veya stok kararları kârlılığı doğrudan riske atmaktadır.
 Örtüşmeyen Ürünler:
 18 numaralı ürün kimliği: Yüksek operasyonel yük, nispeten düşük gelir katkısı.
