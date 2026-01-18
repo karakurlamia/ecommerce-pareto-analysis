@@ -1,4 +1,4 @@
----siparislerin %50 getiren ürünler
+---siparislerin %50 getiren Ã¼rÃ¼nler
 WITH product_orders AS (
 SELECT p.product_id,p.product_name , COUNT(DISTINCT od.order_id)	AS order_count FROM products p
 JOIN order_details od ON p.product_id=od.product_id
@@ -15,12 +15,12 @@ cumulative_order * 1.0 / total_orders AS cumulative_ratio
 FROM ranked_product
 WHERE cumulative_order * 1.0 / total_orders <= 0.50
 ORDER BY order_count DESC;
----cironun %50 getiren ürünler
+---cironun %50 getiren Ã¼rÃ¼nler
 WITH product_ciro AS(
 SELECT p.product_id,p.product_name,COALESCE(SUM(od.quantity*od.Unit_price),0) AS ciro FROM products p
-JOIN order_details od ON p.product_id=od.product_id
-JOIN orders o ON o.order_id=od.order_id
-WHERE o.order_status='Completed'
+LEFT JOIN order_details od ON p.product_id=od.product_id
+LEFT JOIN orders o ON o.order_id=od.order_id
+AND o.order_status='Completed'
 GROUP BY p.product_id,p.product_name
 ),
 ranted_product AS (
@@ -32,3 +32,4 @@ cumulative_ciro *1.0 / total_ciro AS cumulative_ratio
 FROM ranted_product
 WHERE cumulative_ciro *1.0 / total_ciro <= 0.50
 ORDER BY ciro DESC
+
